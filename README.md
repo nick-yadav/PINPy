@@ -12,3 +12,4 @@ It consist of following modules:
 5. **rc_finder.py:** This module provides a function which finds which RCL is found in a Domain and what is its location i.e. it's start and end position.
 6. **rcl_residues.py:** This module provides a function which identifies the Residues at P1, P2 and P1` position in an RCL.
 7. **amino_composition.py:** This module provides a function which finds the Amino Acids composition of Amino Acid Sequences. These Amino Acid sequences can be PI sequences or Domain sequences. It gives each Amino Acid's count and percentage in the sequences.
+
