@@ -1,1 +1,6 @@
-__pycache__
+dist/*
+*.egg-info
+__pycache__/
+pin_py.egg-info/
+pinpy.egg-info/
+.vscode/
