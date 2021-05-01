@@ -1,4 +1,4 @@
-dist/
+dist/*
 *.egg-info
 __pycache__/
 pin_py.egg-info/
