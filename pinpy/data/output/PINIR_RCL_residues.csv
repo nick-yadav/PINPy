@@ -1,0 +1,11 @@
+RclID,Rcl,targetProtease,tpID,P2Residue,P1Residue,P1primeResidue
+RL-1,CPRNC,Trypsin,TP-1,P,R,N
+RL-2,CPLNC,Chymotrypsin,TP-2,P,L,N
+RL-3,CTLNC,Chymotrypsin,TP-2,T,L,N
+RL-4,CTREC,Trypsin,TP-1,T,R,E
+RL-5,CPFNC,Chymotrypsin,TP-2,P,F,N
+RL-6,CPRYC,Trypsin,TP-1,P,R,Y
+RL-7,CTFNC,Chymotrypsin,TP-2,T,F,N
+RL-8,CTFEC,Chymotrypsin,TP-2,T,F,E
+RL-9,CTLEC,Chymotrypsin,TP-2,T,L,E
+RL-10,CTKEC,Trypsin,TP-1,T,K,E
